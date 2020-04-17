@@ -1,0 +1,3 @@
+Mac OS - https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-mac
+
+Linux - https://remmina.org/how-to-install-remmina/

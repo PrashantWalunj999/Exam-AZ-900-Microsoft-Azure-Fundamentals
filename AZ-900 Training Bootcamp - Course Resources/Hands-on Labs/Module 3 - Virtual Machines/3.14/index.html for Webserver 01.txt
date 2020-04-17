@@ -1,0 +1,7 @@
+<html><body><h1> <font color="blue"> <center>Webserver #01<center></font></h1></body></html>
+<html><body><h1> <font color="blue"> <center>Welcome to Microsoft Azure Fundamentals AZ-900 Training Bootcamp !<center></font></h1></body></html>
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>

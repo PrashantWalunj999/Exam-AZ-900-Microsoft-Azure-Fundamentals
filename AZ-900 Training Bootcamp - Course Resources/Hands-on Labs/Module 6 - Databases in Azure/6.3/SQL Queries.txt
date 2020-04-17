@@ -1,0 +1,6 @@
+1. SELECT * FROM c 
+	- Default Query
+	- Returns all items in collection
+
+2. SELECT * FROM c ORDER BY c._ts DESC
+	- Return all items in descending order based on their time stamp
